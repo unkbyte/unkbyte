@@ -5,10 +5,10 @@ In addition to my experience in game hacking, I have also been developing softwa
 
 Currently, I am working on creating my own programming language named Cyon [@cyon-lang](https://github.com/cyon-lang/).
 
-### :tools: Tools I use
+### :nut_and_bolt: Tools I use
 
 I am proficient in using a variety of tools to aid my development process. 
 These include Clion, Visual Studio, Visual Studio Code, git, IDA Pro, and Ghidra
 
-### :mobile_phone: Ways to contact me
+### :iphone: Ways to contact me
 Discord: unknøwn#1111
