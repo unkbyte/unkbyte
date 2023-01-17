@@ -5,5 +5,5 @@ In addition to my experience in game hacking, I have also been developing softwa
 
 Currently, I am working on creating my own programming language named Cyon [@cyon-lang](https://github.com/cyon-lang/).
 
-### Ways to contact me:
+### Ways to contact me
 Discord: unknøwn#1111
