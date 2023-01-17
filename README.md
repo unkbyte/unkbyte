@@ -10,7 +10,7 @@ Currently, I am working on creating my own programming language named Cyon [@cyo
 I am proficient in using a variety of tools to aid my development process. 
 These include Clion, Visual Studio, Visual Studio Code, git, IDA Pro, and Ghidra
 
-### Programming languages I use
+### :computer: Programming languages I use
 
 As a devoted enthusiast of C++, I also have expertise in utilizing Rust, C#, Java, and x64 Assembly.
 
