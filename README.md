@@ -15,4 +15,4 @@ These include Clion, Visual Studio, Visual Studio Code, git, IDA Pro, and Ghidra
 As a devoted enthusiast of C++, I also have expertise in utilizing Rust, C#, Java, and x64 Assembly.
 
 ### :iphone: Ways to contact me
-Discord: unknøwn#1111
+Discord: unkybte
