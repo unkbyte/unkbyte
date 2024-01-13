@@ -16,3 +16,4 @@ As a devoted enthusiast of C++, I also have expertise in utilizing Rust, C#, Jav
 
 ### :iphone: Ways to contact me
 Discord: unkybte
+Email: jekreuzer@vigilant-tech.io
